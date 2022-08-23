@@ -20,13 +20,9 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": [
-              "src/styles.css",
-              "~bootstrap/dist/css/bootstrap.min.css"
+              "src/styles.css"
             ],
             "scripts": [
-              "~popper.js/dist/umd/popper.min.js",
-              "~jquery/dist/jquery.slim.min.js",
-              "~bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
